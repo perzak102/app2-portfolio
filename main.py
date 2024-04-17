@@ -15,3 +15,8 @@ with col2:
     My collaborative approach to software development, along with my problem-solving skills, makes me a valuable asset to any team seeking to build impactful Python-based projects.
     """
     st.info(content)
+
+content2= """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
